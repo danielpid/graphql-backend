@@ -1,0 +1,16 @@
+{
+  "name": "graphql-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Pinillos",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.9.13",
+    "graphql": "^14.5.8"
+  }
+}
